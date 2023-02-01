@@ -1,0 +1,31 @@
+
+body{
+    font-family: 'Inter Tight', sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.App{
+    background: rgb(41, 40, 40);
+   
+}
+h4{
+    color: white;
+}
+p{
+    color: white;
+}
+.about, .interest{
+    margin: 2em;
+}
+.footer{
+    background: rgb(20, 20, 20);
+}
+.footer button{
+    margin: 0.5em;
+    width: 2em;
+}
+svg{
+    cursor: pointer;
+}
